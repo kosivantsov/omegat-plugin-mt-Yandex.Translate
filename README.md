@@ -16,6 +16,6 @@ depending on your operating system.
 
 You'll need an API key which can be created [here](https://translate.yandex.com/developers/keys).
 
-## Acknowledgements
+## Acknowledgments
 
 OmegaT Dev Team for developing the best CAT tool and creating a superb OmegaT plugin skeleton which was used here.
