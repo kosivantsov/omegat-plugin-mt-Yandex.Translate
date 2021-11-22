@@ -4,10 +4,7 @@
 This is a deprecated but still working (as of November 2021) version of Yandex.Translate connector for OmegaT originally developed as a plugin by Ilia Vinogradov, and later included into OmegaT itself. Since Yandex Cloud connector was developed for OmegaT, Yandex.Translate connector was removed. This plugin restores that functionality.
 
 ## Building
-This plugin uses the same Gradle build system as OmegaT version 4.3.0 and later.
-
-## Dependency
-It is necessary to be connected to the internet to compile this project in order to get dependencies resolved.
+This plugin uses the same Gradle build system as OmegaT version 4.3.0 and later. It is necessary to be connected to the internet to compile this project in order to get dependencies resolved.
 
 ## Installation
 
